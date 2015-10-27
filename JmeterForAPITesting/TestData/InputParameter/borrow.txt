@@ -1,0 +1,10 @@
+ios,0,device001
+ios,0,device002
+ios,1,device003
+ios,0,device004
+ios,1,device005
+android,0,device001
+android,0,device002
+android,1,device003
+android,0,device004
+android,1,device005
